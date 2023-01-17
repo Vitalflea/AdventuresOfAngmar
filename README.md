@@ -3,7 +3,7 @@
 [![LOTRO](https://img.shields.io/badge/game-Echoes%20of%20Angmar-yellow.svg?style=plastic)](https://www.echoesofangmar.com/) 
 
 <details>
-  <summary>1/16/2023 - The following tirade is no longer relevant. This project will now likely serve as a fully flegded public bot. If you are interested, add me on discord Vitalflea#0001</summary>
+  <summary>1/16/2023 - The following tirade is no longer relevant. This project will now likely serve as a fully flegded bot. If you are interested, add me on discord Vitalflea#0001</summary>
   
 # 1/11/2023
 Since the 9th and due to the videos I had uploaded, I've gotten quite a few messages from angry players. A lot have been blaming me for everything and if you're one of them I truly am sorry. I hope this entire writeup changes your opinion as I did not want things to end up like this. 
