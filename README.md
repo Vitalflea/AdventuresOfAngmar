@@ -4,6 +4,7 @@
 
 <details>
   <summary>1/16/2023 - The following tirade is no longer relevant. This project will now likely serve as a fully flegded public bot.</summary>
+  
 # 1/11/2023
 Since the 9th and due to the videos I had uploaded, I've gotten quite a few messages from angry players. A lot have been blaming me for everything and if you're one of them I truly am sorry. I hope this entire writeup changes your opinion as I did not want things to end up like this. 
 
