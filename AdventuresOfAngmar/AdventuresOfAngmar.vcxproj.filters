@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\AdventuresOfAngmar.cpp" />
+    <ClCompile Include="deps\minhook\src\buffer.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="deps\minhook\src\hook.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="deps\minhook\src\trampoline.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="deps\minhook\src\hde\hde32.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="headers\sdk\sdk.hpp" />
+    <ClInclude Include="headers\sdk\ClientEntity.hpp" />
+    <ClInclude Include="headers\sdk\Vector3.hpp" />
+    <ClInclude Include="headers\Offsets.hpp" />
+    <ClInclude Include="headers\sdk\HealthPtr.hpp" />
+    <ClInclude Include="headers\sdk\MousePtr.hpp" />
+    <ClInclude Include="headers\sdk\ClientScreen.hpp" />
+    <ClInclude Include="headers\sdk\ClientCamera.hpp" />
+    <ClInclude Include="headers\sdk\TargetPtr.hpp" />
+    <ClInclude Include="headers\hooks\VMTHook.hpp" />
+    <ClInclude Include="headers\sdk\PlayerGeometry.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="minhook">
+      <UniqueIdentifier>{d0c90bea-984d-4839-b3e9-9f4129d02693}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+[submodule "AdventuresOfAngmar/deps/minhook"]
+	path = AdventuresOfAngmar/deps/minhook
+	url = https://github.com/TsudaKageyu/minhook
