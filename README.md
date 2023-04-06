@@ -2,74 +2,11 @@
 [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![LOTRO](https://img.shields.io/badge/game-Echoes%20of%20Angmar-yellow.svg?style=plastic)](https://www.echoesofangmar.com/) 
 
-<details>
-  <summary>1/16/2023 - The following tirade is no longer relevant. This project will now likely serve as a fully flegded bot depending on interest. If you are interested, add me on discord Vitalflea#0001</summary>
-  
-# 1/11/2023
-Since the 9th and due to the videos I had uploaded, I've gotten quite a few messages from angry players. A lot have been blaming me for everything and if you're one of them I truly am sorry. I hope this entire writeup changes your opinion as I did not want things to end up like this. 
+Echoes of Angmar Unethical Refugees:
 
-Everything I claim about the 9th and before should be taken with a grain of salt as I am not perfect and may get some things wrong. I tried my best to make sense of everything in my head and to put it into words for others to understand.
+for hackers, cheaters, botters, and exploiters; and any other unethical players of LOTRO/EOA, Welcome!
 
-After being contacted by moderator chillzor, they stated I was banned for promoting cheating and not because of the population reveal. this really shows just how much some of the moderators are clueless about whats going on in the server. my videos of me cheating were posted multiple times by mod estel and it took chillzor over 10 days to figure out about the videos. Rather than trying to be understanding like mod estel, he wants to immediatley ban me. chillzor is extremely ignorant and spreads false information. claiming that the anticheat was disabled when it clearly was not. It's interesting that a user knows more than the moderators do. The devs really left this one in the dark. For being a moderator, It's really concerning for chillzor to speak on many things they know absolutely nothing about. they really believe speedhack is nothing to worry about. 
-
-# 1/9/2023
-About 6 hours ago I was banned from the discord for reversing the launcher and revealing the population of the server. at the time the populations was 130/500. a very concerning amount imo. now the devs have decided to take down the game indefinitely. It's strange that just 2 days ago they brought the servers down for hardware upgrades, but then take it down now. Do I consider myself to be the main factor in this decision? no. The "nail in the coffin"? I guess so as thats what it appears to be to me. I can accept that, but the devs should have expected something like this. in my opinion the decision was made because the devs simply dont have enough time to fix the problems such as dupes and exploits. or they simply don't know how to fix them. 
-
-If a teleporting man that reveals the player count is truly the reason, then this should say a lot about the developers. they encouraged players to report bugs but not exploit. these two things are nearly identical and to blame exploiters for the shutdown is idiotic. 
-
-I should mention that my intentions were not to get the server shutdown, but rather force the devs hands to do *something* about these major issues. this project was sent to the developers for them to easily identify how the game was being exploited and they did take action by reimplementing the server sided anticheat. unfortunately it was lacking. This was to mainly to serve as a way to contact the devs about the issues since there is no contacting them. I was willing to develop an anticheat for them and even relayed it to a dev through a moderator but they were not interested. 
-
-Never once was I contacted about removing this project or stopping my exploitations. By either devs or gms, infact, i was thanked by the moderator estel for sending them this github project. If i truly was a problem I believe I would have been contacted about conceding. which I would have obliged. If EoA does return, you can bet your ass I will too. It was my first time playing any lotro and to be apart of the team would be a dream come true. 
-
-  Love, Mr. Transparency
-
-<details>
-  Dear Echoes of Angmar Community,
-
-As you may already know, I have made the decision to take down the Echoes Open Beta. The project is now back to being a closed, invite-only affair and will potentially re-release to the public at some point in the future if things work out.
-
-We originally decided to release Echoes into a persistent beta as an experiment, at a request from our community. Unfortunately, this experiment has not worked out as too many people have decided that exploiting an in-development server was the best use of their time. Ultimately, this has led to developer burnout as little actual work was being done, and finally culiminated in our most key developer leaving the project.
-
-Echoes of Angmar has been mostly a three man effort since its inception three years ago, with only two developers working on the server core. With one of us gone, we cannot continue to provide the level of support that a live game demands while also continualy developing the core and content for future phases.
-
-It's hard to say what's next for Echoes as individual know-how is extremely hard to replace on a project like this. For now, I would like to thank all our players who participated in the open beta and contributed bug reports and feedback. A big thank you as well to the Echoes developers, past and present - it's been an honor.
-
-I will see you in Arda. 
- </details>
-
-# The text below is pre 1/9/2023
-
-## Thoughts
-
-Devs/gms seem to not care about you exploiting/cheating as much as they made it out to be, but would rather preserve their player count. This is probably why multiboxing was getting out of hand. multiple people have sent screenshots of me cheating in the discord and even had a gm in game ask me why i was cheating. nothing happened to this particular account. But dont you dare tell anyone how many players are on the server or else you get banned from the discord. The server population is also shown in a way to make the players think there is more players than there really is. a 50% populated server is considered to be [High] population while 25% is considered to be [Medium] population.
-
-https://imgur.com/PCHGOGI
-
-This all started due to the lack of transparency in the server, there is absolutely no communication from the devs, Communication goes a long long way. Their server sided anticheat also caused more harm than good, causing players to be locked in place or prevent deaths from a lethal fall. But this still did not stop me from noclipping and speedhacking. This server should have been left in the oven to bake a little longer. hopefully the devs use the project as a learning experiecne. 
-
-## Item duplication
-
-### First method
--give your item to a friend(preferably matts for other items)
-
--friend logs out saving the item
-
--server goes down essentially rolling you back to when you had the item
-
--use item to make another item to lower risk of getting caught with duplicate id's
-
-how do you fix this? save the player after each transaction. bank, trade, etc.
-
- </details>
- 
-## Features
--speedhack/noclip
-
-how do you fix this without causing problems to other players? create an exception handler and walk the stack to determine if whatever is accessing data is coming from the game and not an external method. this will keep the majority of the cheaters from doing anything. 
-
--fov changer
-
-Who cares
+https://discord.gg/m6Gqs2tQaA
 
 ## Reverse Engineering
 
