@@ -10,6 +10,7 @@ float speed = 0.545f;
 void* g_original{ nullptr };
 
 Vector3 g_last_server_pos{};
+
 bool g_is_flying{ false };
 
 int __fastcall sub_568A30(Player* ecx, void* edx, PlayerGeometry* a2, int a3)
