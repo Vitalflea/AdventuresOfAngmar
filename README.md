@@ -2,12 +2,6 @@
 [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![LOTRO](https://img.shields.io/badge/game-Echoes%20of%20Angmar-yellow.svg?style=plastic)](https://www.echoesofangmar.com/) 
 
-Echoes of Angmar Unethical Refugees:
-
-for hackers, cheaters, botters, and exploiters; and any other unethical players of LOTRO/EOA, Welcome!
-
-https://discord.gg/m6Gqs2tQaA
-
 ## Reverse Engineering
 
 ### PL.DLL
